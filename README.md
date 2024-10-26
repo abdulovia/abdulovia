@@ -18,4 +18,3 @@ const ilyaAbdulov = {
   architecture: ["microservices", "data-intensive apps"],
 }
 ```
----
