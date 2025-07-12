@@ -2,15 +2,3 @@
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHM1dHM4djI1OWJnZjV4emEwOG52M2Nwd3pwOHJpaG9jNHdodm1hZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="230">
 <p><em>BSc Computer Science</a>
 </em></p>
-
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const ilyaAbdulov = {
-  langs: ["Go", "Python", "C++"],
-  frameworks: ["Django", "Qt"],
-  tools: ["PostgreSQL", "Kubernetes", "Prometheus", "Grafana", "Ansible"],
-  architecture: ["microservices", "data-intensive apps"],
-}
-```
